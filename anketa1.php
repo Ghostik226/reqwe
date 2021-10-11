@@ -1,17 +1,16 @@
+<!DOCTYPE html>
 <html>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
 <body>
 <div class="container">
-<div class="top">Данные анкеты получены</div>
+<div class="top">Р”Р°РЅРЅС‹Рµ Р°РЅРєРµС‚С‹ РїРѕР»СѓС‡РµРЅС‹</div>
 <header class="clearfix">
 <h2>Welcome!!!!<br>
-<?php echo $_POST[" fname"]." ".$_POST["surname"]; ?><br>
-Будем рады видеть Вас <br>на выставке робототехники <br>
+<?php echo $_POST["fname"]." ".$_POST["surname"]; ?><br>
+Р‘СѓРґРµРј СЂР°РґС‹ РІРёРґРµС‚СЊ Р’Р°СЃ <br>РЅР° РІС‹СЃС‚Р°РІРєРµ СЂРѕР±РѕС‚РѕС‚РµС…РЅРёРєРё <br>
 
-Дата вашего заезда -<?php echo $_POST["date"]?>
+Р”Р°С‚Р° РІР°С€РµРіРѕ Р·Р°РµР·РґР° -<?php echo $_POST["date"]?>
 
-</nav>
 </header>
-<section>
 </body>
 </html>
